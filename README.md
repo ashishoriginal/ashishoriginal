@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prime-sports-a24b43227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prime-sports-a24b43227" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashish-tiwary-76466312a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prime-sports-a24b43227" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17617438/ashish-tiwary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17617438/ashish-tiwary" height="30" width="40" /></a>
 <a href="https://kaggle.com/primesports" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="primesports" height="30" width="40" /></a>
 <a href="https://instagram.com/ashishoriginal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashishoriginal" height="30" width="40" /></a>
