@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishoriginal" alt="ashishoriginal" /></a> </p>
 
-- 📫 How to reach me **eprimesport@gmail.com**
+- 📫 How to reach me **travels@outlook.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
